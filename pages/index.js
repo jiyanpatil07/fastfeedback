@@ -40,6 +40,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
+
           {/* <Image
             className={styles.logo}
             src="/next.svg"
@@ -48,6 +49,7 @@ export default function Home() {
             height={37}
             priority
           /> */}
+          
           <h1>FastFeedBack</h1>
           <div className={styles.thirteen}>
             <Image
