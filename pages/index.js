@@ -49,8 +49,9 @@ export default function Home() {
             height={37}
             priority
           /> */}
-          
-          <h1>FastFeedBack</h1>
+
+
+          <h1>FastFeedBack 2</h1>
           <div className={styles.thirteen}>
             <Image
               src="/thirteen.svg"
