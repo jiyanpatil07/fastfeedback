@@ -40,14 +40,15 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <Image
+          {/* <Image
             className={styles.logo}
             src="/next.svg"
             alt="Next.js Logo"
             width={180}
             height={37}
             priority
-          />
+          /> */}
+          <h1>FastFeedBack</h1>
           <div className={styles.thirteen}>
             <Image
               src="/thirteen.svg"
