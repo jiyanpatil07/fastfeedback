@@ -51,7 +51,7 @@ export default function Home() {
           /> */}
 
 
-          <h1>FastFeedBack 2</h1>
+          <h1>FastFeedBack 2 from VSCodde</h1>
           <div className={styles.thirteen}>
             <Image
               src="/thirteen.svg"
